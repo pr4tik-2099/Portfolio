@@ -33,7 +33,7 @@ function Work() {
         },
         {
              id: 4,
-            title: "JWT Login Authentication API",
+            title: "JWT LOGIN AUTHENTICATION API",
             img: JWT_API,
             Desc: "It is a secure modern user authentication API with Json Web token-based security and a responsive frontend interface",
             Tecnologies: ["C#", "ASP.NET Core Web API", "JWT", "SQL Server", "Axios", "React js", "Tailwind CSS", "Entity Framework Core"],
